@@ -1,0 +1,25 @@
+.card {
+  min-width: 200px;
+  max-width: 18rem;
+}
+
+#img-personal {
+  min-width: 200px;
+}
+
+.frame {
+  min-width: 300px;
+}
+
+.tarjeta-foto {
+  min-width: none;
+  width: 18rem;
+}
+
+.myfooter {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 0.05rem solid #e5e5e5;
+}
